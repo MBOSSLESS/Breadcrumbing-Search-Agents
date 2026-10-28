@@ -1,0 +1,127 @@
+{
+  "format_version": 1,
+  "description": "Frozen ACH and training-selected TGSE strategies accompanying the paper. Names are publication labels; all other strategy fields are preserved.",
+  "selection": "Training-selected strategies for each published regime and family; no held-out reranking.",
+  "artifacts": [
+    {
+      "path": "ach.yaml",
+      "name": "ACH",
+      "sha256": "e39869c5c1d532c0663d25df72c0e9d781725bd8fe376c9dfdd6318ac77561c3"
+    },
+    {
+      "path": "tgse/normal/advertisement.yaml",
+      "name": "TGSE_NORMAL_ADVERTISEMENT",
+      "sha256": "050061e138b7775bd0b553ada51f63698a82feac38d6768bb5dca935ab829ce7"
+    },
+    {
+      "path": "tgse/normal/bias.yaml",
+      "name": "TGSE_NORMAL_BIAS",
+      "sha256": "cc556d146a5259a1c9b66be842ee1cc8099e7411e0aef11b816855685ec34fe6"
+    },
+    {
+      "path": "tgse/normal/misinformation.yaml",
+      "name": "TGSE_NORMAL_MISINFORMATION",
+      "sha256": "a0006fa795cb052324d468a53f5fa4f4862d7c9f17b888e5f6a48276d30cdb86"
+    },
+    {
+      "path": "tgse/normal/harmful_output.yaml",
+      "name": "TGSE_NORMAL_HARMFUL_OUTPUT",
+      "sha256": "8688bc415c546869b5b7c98d9310bb95c02519fc14f006f4f72d1830feb1bae8"
+    },
+    {
+      "path": "tgse/normal/prompt_injection.yaml",
+      "name": "TGSE_NORMAL_PROMPT_INJECTION",
+      "sha256": "c77f62722e873158b00466d7525fa147627db6c842873ec2826082274b25977a"
+    },
+    {
+      "path": "tgse/trace_warm/advertisement.yaml",
+      "name": "TGSE_TRACE_WARM_ADVERTISEMENT",
+      "sha256": "7f7291a274d56ed2128c3ad2a389c8849e5ed741b4f1e744d8e280bb51e084a9"
+    },
+    {
+      "path": "tgse/trace_warm/bias.yaml",
+      "name": "TGSE_TRACE_WARM_BIAS",
+      "sha256": "322894b0db674ac881bf5320dea90799f5bcf74542765e0f3d3c9a9c6d5de5de"
+    },
+    {
+      "path": "tgse/trace_warm/misinformation.yaml",
+      "name": "TGSE_TRACE_WARM_MISINFORMATION",
+      "sha256": "e9e3d7c9e5d4bf982e28c551496d9ffbd9f6a5de0fb72db10311da4d444f47d1"
+    },
+    {
+      "path": "tgse/trace_warm/harmful_output.yaml",
+      "name": "TGSE_TRACE_WARM_HARMFUL_OUTPUT",
+      "sha256": "82acb5ee7912e618b133de77ec46e4fc9664f2edcca5d5389c3de492f984a529"
+    },
+    {
+      "path": "tgse/trace_warm/prompt_injection.yaml",
+      "name": "TGSE_TRACE_WARM_PROMPT_INJECTION",
+      "sha256": "9d90f5e94bc316a497d104c94ad192a8ce196cef5c935fd51a7ea548a446e155"
+    },
+    {
+      "path": "tgse/adv_train/advertisement.yaml",
+      "name": "TGSE_ADV_TRAIN_ADVERTISEMENT",
+      "sha256": "5cae3a41a397237c0f5a5832d7813ae0cf38b03bd31050b3025a45f514114a86"
+    },
+    {
+      "path": "tgse/adv_train/bias.yaml",
+      "name": "TGSE_ADV_TRAIN_BIAS",
+      "sha256": "72985a700713dffddabcc039a40c53c1d47e0b149229e6d489b9071e1852afd1"
+    },
+    {
+      "path": "tgse/adv_train/misinformation.yaml",
+      "name": "TGSE_ADV_TRAIN_MISINFORMATION",
+      "sha256": "01b71c7f8fa78b7ce49ef4206690eb4d3eb4e89edc3ca685d9f3d8007cb05b10"
+    },
+    {
+      "path": "tgse/adv_train/harmful_output.yaml",
+      "name": "TGSE_ADV_TRAIN_HARMFUL_OUTPUT",
+      "sha256": "728068c47929c8078d4f387bf3a1a4ff8abfd906c929a360535eafa4d5773f4d"
+    },
+    {
+      "path": "tgse/adv_train/prompt_injection.yaml",
+      "name": "TGSE_ADV_TRAIN_PROMPT_INJECTION",
+      "sha256": "1b456b3b86c4a5370a7e0a924c78b99f99c5a12808068c96b876c0b9e756c5fa"
+    },
+    {
+      "path": "tgse/adv_warm/advertisement.yaml",
+      "name": "TGSE_ADV_WARM_ADVERTISEMENT",
+      "sha256": "016194d7d4206fb88bf76d8b7aa114624626af09bf636219538cff9b1970a74c"
+    },
+    {
+      "path": "tgse/adv_warm/bias.yaml",
+      "name": "TGSE_ADV_WARM_BIAS",
+      "sha256": "6d7ec6919e48891aeb0a5c0974c1f80fc7538f4aa57cd1d7edfe81abe2c9df92"
+    },
+    {
+      "path": "tgse/adv_warm/misinformation.yaml",
+      "name": "TGSE_ADV_WARM_MISINFORMATION",
+      "sha256": "dbe384b86ce9609fbcca8bf4d586987dbb5eaa467acfaf6831fa1031088aacd2"
+    },
+    {
+      "path": "tgse/adv_warm/harmful_output.yaml",
+      "name": "TGSE_ADV_WARM_HARMFUL_OUTPUT",
+      "sha256": "7def6e446599e7928c97a64dbac8f0862d33e6aa792101bdb9212c03f56b0519"
+    },
+    {
+      "path": "tgse/adv_warm/prompt_injection.yaml",
+      "name": "TGSE_ADV_WARM_PROMPT_INJECTION",
+      "sha256": "37305d41bb55434ec373353227992e7070c9049c7dfc05a1d32b28fe80a10d7d"
+    },
+    {
+      "path": "ablations/dummy_init.yaml",
+      "name": "DUMMY_INIT",
+      "sha256": "5175f75f9a1c16fe23764afce9973141241802a68c6fd8c9be38a79f76e1c168"
+    },
+    {
+      "path": "ablations/goal_reframing.yaml",
+      "name": "GOAL_REFRAMING",
+      "sha256": "a0dae10e4c7da93ff9b2e448cd8132978d1ad3853fe7813b6f8cad592ea83863"
+    },
+    {
+      "path": "ablations/directive_embedding.yaml",
+      "name": "DIRECTIVE_EMBEDDING",
+      "sha256": "7c7595a7fe312b9f2e9e94d63a1ecc27d8216d0c6ef0c25daddb2a7be1e5575b"
+    }
+  ]
+}

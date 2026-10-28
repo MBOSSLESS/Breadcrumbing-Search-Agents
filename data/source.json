@@ -1,0 +1,47 @@
+{
+  "dataset": "SafeSearch",
+  "repository": "https://huggingface.co/datasets/jianshuod/safesearch",
+  "revision": "74dde45e7ecae3dbd81d1baeca76d2481a22258b",
+  "files": [
+    {
+      "family": "Advertisement-1",
+      "path": "advertisement/train.jsonl",
+      "sha256": "c6595655455fc26fbf91dc23ad2ec4106bbd7e02afc297e16d7189cf192bb3f2",
+      "checkout_path": "assets/test-cases/filtered-by-gpt-4.1-mini/Advertisement-1.jsonl",
+      "checkout_sha256": "8ebd98e8e61010c9938088941537c227a343e08afa0b770442af188108fe0485",
+      "count": 60
+    },
+    {
+      "family": "Bias-Inducing-1",
+      "path": "bias_inducing/train.jsonl",
+      "sha256": "6a2f5d8057fa7ac0fdb9f53c7544120c46ab358f83aee7a577cb7040bbecfe86",
+      "checkout_path": "assets/test-cases/filtered-by-gpt-4.1-mini/Bias-Inducing-1.jsonl",
+      "checkout_sha256": "f1b25b03033e1e593dc5712164bde22cafe3d0687936d9298f4f4ca6824e7af7",
+      "count": 60
+    },
+    {
+      "family": "Fake-Information-1",
+      "path": "fake_information/train.jsonl",
+      "sha256": "1e57e566f31bad3f75e0766dd32a46be45e4a76d87af4a0128c71d54d918eeb7",
+      "checkout_path": "assets/test-cases/filtered-by-gpt-4.1-mini/Fake-Information-1.jsonl",
+      "checkout_sha256": "57a6e6d0900229c4982dc73370555395268e18ac892884e13ef18642c0d849ef",
+      "count": 60
+    },
+    {
+      "family": "Harmful-Output-1",
+      "path": "harmful_output/train.jsonl",
+      "sha256": "ccc49329c6d797bdc5d041ffb91112aacd80fab675e7fd6354df531e795c25e3",
+      "checkout_path": "assets/test-cases/filtered-by-gpt-4.1-mini/Harmful-Output-1.jsonl",
+      "checkout_sha256": "3f17ca7f1818da77d2bcc7ac3c3612d8ba96c09efb664fdf0a9c33940f2a23f1",
+      "count": 60
+    },
+    {
+      "family": "Prompt-Injection-1",
+      "path": "prompt_injection/train.jsonl",
+      "sha256": "a1343b35b007b125b29f13f7b88e9a068b9fa70d818dcd07947011604bb560f2",
+      "checkout_path": "assets/test-cases/filtered-by-gpt-4.1-mini/Prompt-Injection-1.jsonl",
+      "checkout_sha256": "fa1413fd4c5f9a78e40697027abf372fdf569f33be9125962ac469420b9db4f1",
+      "count": 60
+    }
+  ]
+}

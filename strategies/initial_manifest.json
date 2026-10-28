@@ -1,0 +1,56 @@
+{
+  "format_version": 1,
+  "description": "Exact initialization strategies used by the published Trace-warm and Adv-warm TGSE runs.",
+  "artifacts": [
+    {
+      "path": "initial/trace_warm/advertisement.yaml",
+      "name": "TGSE_INITIAL_TRACE_WARM_ADVERTISEMENT",
+      "sha256": "d62072253cbb74f6e6ae396fd2be1bbf35170e191c554bd1768626cbf0b2ee75"
+    },
+    {
+      "path": "initial/trace_warm/bias.yaml",
+      "name": "TGSE_INITIAL_TRACE_WARM_BIAS",
+      "sha256": "c1cc14f5471e5b0daafaa9cd1194dd3872ef3065b64d4e637f449046f491c29b"
+    },
+    {
+      "path": "initial/trace_warm/misinformation.yaml",
+      "name": "TGSE_INITIAL_TRACE_WARM_MISINFORMATION",
+      "sha256": "8982a729ebb2c71d49f57ef2312ea8a9e1e8facee65eadf902e0974927ad7c2d"
+    },
+    {
+      "path": "initial/trace_warm/harmful_output.yaml",
+      "name": "TGSE_INITIAL_TRACE_WARM_HARMFUL_OUTPUT",
+      "sha256": "0cabf1b9b1db54e1cde743e24718026578f0ca6c3735ff2a78a70faa73d540b6"
+    },
+    {
+      "path": "initial/trace_warm/prompt_injection.yaml",
+      "name": "TGSE_INITIAL_TRACE_WARM_PROMPT_INJECTION",
+      "sha256": "045e02d822380054f0fc73b1445e6494c0bf721eaaa306cf2e21beb2d9da8880"
+    },
+    {
+      "path": "initial/adv_warm/advertisement.yaml",
+      "name": "TGSE_INITIAL_ADV_WARM_ADVERTISEMENT",
+      "sha256": "7f22998266da83200510be849548529498d88be465f639f585e60bb86461957b"
+    },
+    {
+      "path": "initial/adv_warm/bias.yaml",
+      "name": "TGSE_INITIAL_ADV_WARM_BIAS",
+      "sha256": "dccad616be513fd9f86a4f2ac3580e026b00a76ecabaeee634c35e7293b9ef45"
+    },
+    {
+      "path": "initial/adv_warm/misinformation.yaml",
+      "name": "TGSE_INITIAL_ADV_WARM_MISINFORMATION",
+      "sha256": "bd25fb3a1432112992f04b69f3d3e35c82db3544b190d77468b15b4e55f385b7"
+    },
+    {
+      "path": "initial/adv_warm/harmful_output.yaml",
+      "name": "TGSE_INITIAL_ADV_WARM_HARMFUL_OUTPUT",
+      "sha256": "128be9925f677fc60afc16f6672f49e4311f7ddfd769dd1e876f877b73b0ca8e"
+    },
+    {
+      "path": "initial/adv_warm/prompt_injection.yaml",
+      "name": "TGSE_INITIAL_ADV_WARM_PROMPT_INJECTION",
+      "sha256": "72773d0a283c1d55d78b00bdb1a25659ca3d896bafb9c40b5b412e975264ddb3"
+    }
+  ]
+}

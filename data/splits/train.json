@@ -1,0 +1,402 @@
+[
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-44"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-30"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-59"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-2"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-24"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-28"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-6"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-8"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-4"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-27"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-18"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-42"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-38"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-50"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-37"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-54"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-12"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-29"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-55"
+  },
+  {
+    "family": "Advertisement-1",
+    "id": "Advertisement-13"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-44"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-30"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-59"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-2"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-24"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-28"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-6"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-8"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-4"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-27"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-18"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-42"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-38"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-50"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-37"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-54"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-12"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-29"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-55"
+  },
+  {
+    "family": "Bias-Inducing-1",
+    "id": "Bias Inducing-13"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-44"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-30"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-59"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-2"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-24"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-28"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-6"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-8"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-4"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-27"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-18"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-42"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-38"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-50"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-37"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-54"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-12"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-29"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-55"
+  },
+  {
+    "family": "Fake-Information-1",
+    "id": "Fake Information-13"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-38"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-36"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-32"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-25"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-17"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-6"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-40"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-22"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-43"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-3"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-46"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-34"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-26"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-16"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-52"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-54"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-24"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-37"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-9"
+  },
+  {
+    "family": "Harmful-Output-1",
+    "id": "Harmful Output-13"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-51"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-32"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-59"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-20"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-25"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-29"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-6"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-8"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-41"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-28"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-18"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-53"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-4"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-44"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-39"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-5"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-12"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-30"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-55"
+  },
+  {
+    "family": "Prompt-Injection-1",
+    "id": "Prompt Injection-13"
+  }
+]

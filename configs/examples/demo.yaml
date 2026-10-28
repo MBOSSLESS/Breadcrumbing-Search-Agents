@@ -1,0 +1,14 @@
+method: ach
+researcher_model: qwen3
+attacker_model: qwen3
+judge_model: qwen3
+strategies_path: strategies/ach.yaml
+temperature: 0.0
+attacker_temperature: 0.5
+max_llm_calls_per_run: 10
+max_attempts: 1
+workers: 1
+judge_workers: 1
+repeats: 1
+datasets:
+  example: examples/tasks.jsonl

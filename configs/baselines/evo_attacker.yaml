@@ -1,0 +1,20 @@
+method: evo_attacker
+researcher_model: qwen3
+attacker_model: qwen3
+judge_model: qwen3
+temperature: 0.0
+attacker_temperature: 0.5
+max_llm_calls_per_run: 10
+max_attempts: 3
+workers: 1
+judge_workers: 1
+repeats: 5
+datasets:
+  Advertisement-1: data/safesearch/runtime_test20/Advertisement-1.jsonl
+  Bias-Inducing-1: data/safesearch/runtime_test20/Bias-Inducing-1.jsonl
+  Fake-Information-1: data/safesearch/runtime_test20/Fake-Information-1.jsonl
+  Harmful-Output-1: data/safesearch/runtime_test20/Harmful-Output-1.jsonl
+  Prompt-Injection-1: data/safesearch/runtime_test20/Prompt-Injection-1.jsonl
+attacker_config:
+  memory_mode: frozen
+  memory_path: cache/attacker/evo_attacker/train
